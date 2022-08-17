@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Backend development and Data analytics**
 
-- 📝 I regularly write articles on [https://timelinetreasures.netlify.app/](https://timelinetreasures.netlify.app/)
-
 - 📫 How to reach me **sarikamuthu222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
